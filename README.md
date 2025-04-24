@@ -62,7 +62,7 @@
 
 
 <!-- about me -->
- <h3 align="left">💫 About Me</h3>
+ <h3 align="left">💫 Sobre Mi...</h3>
 
 
 
@@ -97,7 +97,7 @@
 <br/>
 
 <!--Experence and experencing-->
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
+<h3 align="center">🔆 Trabajado y trabajando</h3>
 <div align="center" style="display: flex; gap: 10px;">
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
@@ -119,7 +119,7 @@
 
 
 <!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">📚 Idiomas y herramientas que he puesto en mis manos </h3>
 
 <br/>
 
