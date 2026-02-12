@@ -116,8 +116,8 @@ as well as exploring the field of computer science to gain deep knowledge.
 <h3 align="center">⚡ GitHub Status</h3>
 <br>
 <div align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="UOM Logo" width="350" style="border-radius: 10px;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="UOM Logo" width="350" style="border-radius: 10px;">
+<img src="/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" style="max-width: 100%;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="UOM Logo" width="48" style="max-width: 100%;">
 </div>
 
 <br/><br/>
