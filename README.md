@@ -106,7 +106,7 @@ as well as exploring the field of computer science to gain deep knowledge.
 <!--Experence and experencing-->
 <h3 align="center">🔆 Worked and Currently Working</h3>
 <div align="center" style="display: flex; gap: 10px;">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="UOM Logo" width="350" style="border-radius: 10px;">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
 </div>
 
