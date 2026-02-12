@@ -125,20 +125,6 @@ as well as exploring the field of computer science to gain deep knowledge.
 
 <br/>
 
-###  Skills Breakdown
-
-| Category | Skills |
-|-----------|---------|
-| **Languages** | Java (Spring Boot), C# (ASP.NET), Dart (Flutter) |
-| **Frameworks & Libraries** | React, Vue.js |
-| **Testing & Automation** | JUnit, xUnit / NUnit, React Testing Library + Jest, Vue Test Utils + Jest |
-| **Databases** | MySQL, PostgreSQL, SQLite, Hive |
-| **Version Control** | Git, GitHub, GitLab |
-| **Containerization** | Docker |
-| **Architecture** | DDD, MVVM, Hexagonal (Ports & Adapters), SOLID |
-| **Agile** | Scrumban, Scrum, Kanban |
-
----
 
 
 
