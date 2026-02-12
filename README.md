@@ -116,9 +116,8 @@ as well as exploring the field of computer science to gain deep knowledge.
 <h3 align="center">⚡ GitHub Status</h3>
 <br>
 <div align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
-
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="UOM Logo" width="350" style="border-radius: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="UOM Logo" width="350" style="border-radius: 10px;">
 </div>
 
 <br/><br/>
